@@ -6,13 +6,13 @@ return PlaceObj('ModDef', {
 	'pops_any_uuid', "9c43d53d-a549-45c6-8a2f-e84c98cc7858",
 	'author', "Andrew Kushnir",
 	'version_major', 1,
-	'version_minor', 0,
-	'version', 1,
+	'version', 10,
 	'lua_revision', 1009413,
 	'saved_with_revision', 1011140,
 	'code', {
 		"Code/Script.lua",
 	},
-	'saved', 1655019208,
+	'has_options', true,
+	'saved', 1655092231,
 	'TagTraits', true,
 })
