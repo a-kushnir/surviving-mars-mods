@@ -12,7 +12,12 @@
 - [Links](#links)
 
 ## Tourist Specialization
-Sets Tourist specialization for colonists who has Tourist trait, so that makes filters work
+
+Sets either Tourist specialization or No specialization for colonists who have Tourist trait. That makes filters work better.
+
+Custom icons for tourists will apply, so it's easier to spot them.
+
+Both options, Specialization and Custom Icons, are configurable.
 
 # License
 [(Back to top)](#table-of-contents)
