@@ -13,7 +13,7 @@
 
 ## Tourist Specialization
 
-<img src="https://raw.githubusercontent.com/a-kushnir/surviving-mars-mods/main/Tourist%20Specialization/Preview.png" alt="Tourist Specialization" title="Tourist Specialization" align="right" height="180" />
+<img src="https://raw.githubusercontent.com/a-kushnir/surviving-mars-mods/main/Tourist%20Specialization/Preview.jpg" alt="Tourist Specialization" title="Tourist Specialization" align="right" height="180" />
 
 Sets either Tourist specialization or No specialization for colonists who have Tourist trait. That makes filters work better.
 
