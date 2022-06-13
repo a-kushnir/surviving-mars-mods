@@ -1,5 +1,5 @@
-<a href="http://x-stocks.herokuapp.com/">
-    <img src="https://raw.githubusercontent.com/a-kushnir/surviving-mars-mods/main/logo.png" alt="xStocks logo" title="Surviving Mars" align="right" height="60" />
+<a href="https://www.paradoxinteractive.com/games/surviving-mars">
+    <img src="https://raw.githubusercontent.com/a-kushnir/surviving-mars-mods/main/logo.png" alt="Surviving Mars" title="Surviving Mars" align="right" height="60" />
 </a>
 
 # Surviving Mars Mods
@@ -12,6 +12,8 @@
 - [Links](#links)
 
 ## Tourist Specialization
+
+<img src="https://raw.githubusercontent.com/a-kushnir/surviving-mars-mods/main/Tourist%20Specialization/Preview.png" alt="Tourist Specialization" title="Tourist Specialization" align="right" height="180" />
 
 Sets either Tourist specialization or No specialization for colonists who have Tourist trait. That makes filters work better.
 

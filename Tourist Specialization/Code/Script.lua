@@ -91,7 +91,7 @@ function Colonist:GetSpecializationIcons()
 	local result = base_GetSpecializationIcons(self)
 	
 	if not result or result == "" then
-		return result
+	    return result
 	
 	-- Set icons to Tourist
 	elseif Options_TouristIcons == Options_TouristIcons_On and traits.Tourist then
