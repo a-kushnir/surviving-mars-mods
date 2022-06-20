@@ -21,7 +21,7 @@ Custom icons for tourists will apply, so it's easier to spot them.
 
 Both options, Specialization and Custom Icons, are configurable.
 
-Available on [Paradox Mods](https://mods.paradoxplaza.com/mods/45477/Any)
+Available on [Paradox Mods](https://mods.paradoxplaza.com/mods/45477/Any) and [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2823484071)
 
 # License
 [(Back to top)](#table-of-contents)
